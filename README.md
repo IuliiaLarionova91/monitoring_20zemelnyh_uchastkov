@@ -1,2 +1,2 @@
-# monitoring_20zemelnyh_uchastkov
- The company, which is a government agency, monitors land plots in the city of Moscow. The main activities include organizing on-site inspections and identifying illegal construction projects.
+# Мониторинг земельных участвков
+Компания, являющаяся государственным учреждением, занимается мониторингом земельных участков на территории города Москвы. Основные направления деятельности включают организацию выездных проверок и выявление незаконных строительных объектов.
